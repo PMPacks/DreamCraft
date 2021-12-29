@@ -1,0 +1,13 @@
+---
+YiPluss:
+  amplifier: 11
+  display: line
+  enabled: true
+  particle: []
+helu:
+  amplifier: 11
+  display: line
+  enabled: true
+  particle:
+  - item_265
+...

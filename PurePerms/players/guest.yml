@@ -1,0 +1,7 @@
+---
+userName: guest
+group: Guest
+permissions:
+- pocketmine.command.warp
+worlds: []
+...

@@ -1,0 +1,11 @@
+---
+userName: vip2
+group: Guest
+permissions:
+- pocketmine.command.fly
+- f
+- fly
+- pocketmine.fly
+- tool.cmd
+worlds: []
+...

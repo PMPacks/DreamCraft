@@ -1,0 +1,12 @@
+name: Repair
+main: PTK\Repair
+version: 3.0
+author: PTK-KienPham
+api: [2.0.0]
+commands:
+ repair:
+  permission: ptk.repair
+  description: "Sửa đồ đang cầm trên tay"
+ rp:
+  permission: ptk.rp
+  description: "Sửa chữa lại đồ đang cầm trên tay"

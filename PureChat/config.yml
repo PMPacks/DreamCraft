@@ -1,0 +1,53 @@
+---
+version: 1.4.0
+default-factions-plugin: FactionsPro
+groups:
+  Owner:
+    chat: §f[§a{fac_name}§r§f] §aØϣňęŕ §e{display_name}§b →§f {msg}
+    nametag: §f[§a{fac_name}§r§f] §aØϣňęŕ §e{display_name}
+    worlds: []
+  Co-Owner:
+    chat: §f[§a{fac_name}§r§f] §b§oČø-Øϣňęŕ§r §e{display_name} §b→§f {msg}
+    nametag: §f[§a{fac_name}§r§f] §b§oČø-Øϣňęŕ§r §e{display_name}
+    worlds: []
+  OP:
+    chat: §f[§a{fac_name}§r§f] §o§aØƤ§r §e{display_name}§b →§f {msg}
+    nametag: §f[§a{fac_name}§r§f] §o§aØƤ§r§e {display_name}
+    worlds: []
+  Admin:
+    chat: §f[§a{fac_name}§r§f] §cΆďɱîņ §e{display_name} §b→ §f{msg}
+    nametag: §f[§a{fac_name}§r§f] §cΆďɱîņ §e{display_name}
+    worlds: []
+  Builder:
+    chat: §f[§a{fac_name}§r§f] §bƁųîłďęř §e{display_name}§b → §f{msg}
+    nametag: §f[§a{fac_name}§r§f] §bƁųîłďęř §e{display_name}
+    worlds: []
+  Police:
+    chat: §f[§a[{fac_name}§r§f] §9꧁༺℘ơƖıƈɛ༻꧂  §e{display_name}§b → §f{msg}
+    nametag: §f[§a{fac_name}§r§f] §9꧁༺℘ơƖıƈɛ༻꧂  §e{display_name}
+    worlds: []
+  Helper:
+    chat: §f[§a{fac_name}§r§f] §d꧁༺Hɛ℘ɛřཞ༻꧂ §e{display_name} §b→ §f{msg}
+    nametag: §f[§a{fac_name}§f] §d꧁༺Hɛ℘ɛřཞ༻꧂ §e{display_name}
+    worlds: []
+  YouTuber:
+    chat: §f[§a{fac_name}§r§f] §fƳøų§cŤųɓęř §e{display_name} §b→§f {msg}
+    nametag: §f[§a{fac_name}§r§f] §fƳøų§cŤųɓęř §e{display_name}
+    worlds: []
+  Member:
+    chat: §f[§a{fac_name}§r§f] §9꧁༺Gųɛʂt༻꧂ §e{display_name} §b→ §f{msg}
+    nametag: §f[§a{fac_name}§r§f] §9꧁༺Gųɛʂt༻꧂ §e{display_name}
+    worlds: []
+  VIPI:
+    chat: §f[§a{fac_name}§r§f] §6ѶÎƤ-Î §e{display_name}§b → §f{msg}
+    nametag: §f[§a{fac_name}§r§f] §6ѶÎƤ-Î §e{display_name}
+    worlds: []
+  VIPII:
+    chat: §f[§a{fac_name}§r§f] §6ѶÎƤ-ÎÎ §e{display_name} §b→§f {msg}
+    nametag: §f[§a{fac_name}§r§f] §6ѶÎƤ-ÎÎ §e{display_name}
+    worlds: []
+  VIPIII:
+    chat: §f[§a{fac_name}§r§f] §6ѶÎƤ-ÎÎÎ §e{display_name} §b→§f {msg}
+    nametag: §f[§a{fac_name}§r§f] §6ѶÎƤ-ÎÎÎ §e{display_name}
+    worlds: []
+...

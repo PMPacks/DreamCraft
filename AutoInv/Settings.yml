@@ -1,0 +1,18 @@
+###  AutoInv v0.0.6 configuration file  ###
+general:
+  events:
+    # Add block drops directly to players' inventories?
+    block-break: true
+    # Add players inventory contents directly to their last attackers inventory on death?
+    player-death: false
+    # Add explosion drops directly to the nearest entities inventory?
+    entity-explosion: false
+    # Inventory full alerts
+    inventory-full:
+        active: true # Should we alert players when their inventory is full?
+        interval: 5 # Minimum time in seconds between inventory full messages
+        message:
+                text: "&cKho Đồ Của Bạn Đã Đầy!" #Tin-1
+                secondary-text: "&eHãy Dọn Bớt Vật Phẩm Trong Người Để Nhặt Vật Phẩm!" #Tin-2
+                type: "popup" # Message, tip, popup, title
+        sound: true # Play a sound?

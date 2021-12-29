@@ -1,0 +1,9 @@
+---
+userName: vip1
+group: Guest
+permissions:
+- pocketmine.command.me
+- essentialTP.command.tp
+- tool.cmd
+worlds: []
+...

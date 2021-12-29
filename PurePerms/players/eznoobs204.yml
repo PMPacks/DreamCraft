@@ -1,0 +1,21 @@
+---
+userName: EzNoobs204
+group: Boss
+permissions:
+- Owner
+- Op
+- op
+- Pocketmine.com
+- pocketmine.command.op
+- pocketmine.command.op.give
+- pocketmine.command.op.take
+- Pocketmine.command.op
+- '*'
+- pocketmine.command.op
+- pocketmine.command.op.other
+worlds:
+  sb:
+    group: Guest
+    permissions:
+    - op
+...

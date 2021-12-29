@@ -1,0 +1,89 @@
+---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: false
+  message: "&e[{TIME}] &aWelcome to your server! &n&b[{TOTALPLAYERS}/{MAXPLAYERS}]"
+OutdatedClient:
+  custom: true
+  message: "&cYour MCPE client is outdated!"
+OutdatedServer:
+  custom: true
+  message: "&cOops! Server outdated!"
+WhitelistedServer:
+  custom: true
+  message: "&c&oThis Server is whitelisted!"
+FullServer:
+  custom: true
+  message: "&e{PLAYER}&b, The Server is full &c[{TOTALPLAYERS}/{MAXPLAYERS}]&b!\n&l&dTry to join later :)"
+FirstJoin:
+  enable: true
+  message: "&a{PLAYER}&d đã vào server lần đầu."
+Join:
+  hide: false
+  custom: true
+  message: "&a{PLAYER}&e đã vào server."
+Quit:
+  hide: false
+  custom: true
+  message: "&c{PLAYER}&c đã thoát server]"
+WorldChange:
+  enable: true
+  message: " &a{PLAYER}&e di chuyển từ &c{ORIGIN}&e đến &a{TARGET}"
+Death:
+  hide: false
+  custom: true
+  message: "&c{PLAYER} gặp ông bà"
+  death-contact-message:
+    hide: false
+    custom: true
+    message: "&cSặc! {PLAYER} chết do {BLOCK}"
+  kill-message:
+    hide: false
+    custom: true
+    message: "&9{PLAYER} &ebị thông bởi &c{KILLER}"
+  death-projectile-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} bị thông đít {KILLER} bởi cung tên"
+  death-suffocation-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} chết vì ngộp thở"
+  death-fall-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} tự tử nhảy lầu"
+  death-fire-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} đã trở thành ma tốc độ =))"
+  death-on-fire-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} đốt"
+  death-lava-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} bị chiên chín"
+  death-drowning-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} chết đuối"
+  death-explosion-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} ăn tnt"
+  death-void-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} ngu người"
+  death-suicide-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} tự sát"
+  death-magic-message:
+    hide: false
+    custom: true
+    message: "&c{PLAYER} bị giết do dùng thuốc quá nhiều"
+...

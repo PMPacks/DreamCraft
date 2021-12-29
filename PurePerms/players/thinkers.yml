@@ -1,0 +1,7 @@
+---
+userName: ThinkerS
+group: Guest
+permissions:
+- pocketmine.command.plugins
+worlds: []
+...

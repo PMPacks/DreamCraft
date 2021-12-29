@@ -1,0 +1,5 @@
+name: AWL[PTK]
+main: PTK\AWL\Main
+version: 1.0
+api: [2.0.0, 3.0.0]
+author: PTK-KienPham

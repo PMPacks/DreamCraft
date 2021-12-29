@@ -1,0 +1,12 @@
+---
+userName: builder
+group: Guest
+permissions:
+- essentialsTP.command.tp
+- pocketmine.command.me
+- pocketmine.command.gamemode
+- EssentialTP.command.tp
+- pocketmine.command.tp
+- tp
+worlds: []
+...

@@ -1,0 +1,10 @@
+name: MineLV
+main: PTK\MineLevel\Main
+api: [3.0.0, 2.0.0]
+author: PTK-KienPham And Ktplus
+version: 0.1
+commands:
+    ilevel:
+      description: Xem Thông Tin Cấp Độ
+    setilevel:
+      description: Đặt Cấp Độ Của Người Chơi

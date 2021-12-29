@@ -1,0 +1,11 @@
+---
+userName: police
+group: Guest
+permissions:
+- pocketmine.fly
+- fly
+- /fly
+- pocketmine.command.me
+- pocketmine.command.alias
+worlds: []
+...

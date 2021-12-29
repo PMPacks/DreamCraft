@@ -1,0 +1,7 @@
+---
+userName: plantinum
+group: Guest
+permissions:
+- pocketmine.command.me
+worlds: []
+...

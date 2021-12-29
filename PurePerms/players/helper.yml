@@ -1,0 +1,7 @@
+---
+userName: helper
+group: Guest
+permissions:
+- pocketmine.command.me
+worlds: []
+...

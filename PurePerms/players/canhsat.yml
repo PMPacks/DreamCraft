@@ -1,0 +1,7 @@
+---
+userName: canhsat
+group: Guest
+permissions:
+- pocketmine.command.fly
+worlds: []
+...

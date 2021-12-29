@@ -1,0 +1,10 @@
+---
+userName: Minuha
+group: Owner
+permissions:
+- pocketmine.command.op
+- pocketmine.commands.op
+worlds: []
+suffix: Mine¥§1PoliceFake¥
+prefix: M§cYou§rtuber
+...

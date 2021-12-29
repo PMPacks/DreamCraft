@@ -1,0 +1,7 @@
+---
+userName: owner
+group: Guest
+permissions:
+- pocketmine.command.op
+worlds: []
+...

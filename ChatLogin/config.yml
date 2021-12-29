@@ -1,0 +1,17 @@
+#ChatLogin plugin default configuration
+---
+#show ChatLogin prefix
+show-prefix: false
+#Register message
+register-message: "§f• §aĐăng kí §dbằng cách nhập mật khẩu bạn muốn vào thanh chat[Type <mật khẩu> into chat to register]\n§f• §bVote cho Server tại §6Bit.do/tmk-vote"
+#Require password confirmation for registration
+password-confirm-required: true
+#Register confirmation message
+register-confirm-message: "§f• §bNhập mật khẩu lần nữa để xác nhận:\n§f• §bRetype <passsword> into chat to confirm:"
+#No register permissions message
+no-register-permissions: "&cYou don't have permissions to register"
+#Login message
+login-message: "§f• §aĐăng nhập §dbằng cách nhập trực tiếp mật khẩu của bạn[Type <mật khẩu> into chat to login]\n§f• §eĐổi mật khẩu bằng cách §a/cpw <mật khẩu cũ> §evà làm theo hướng dẫn\n§f• §bVote cho Server tại §6Bit.do/tmk-vote"
+#No login permissions message
+no-login-permissions: "&cYou don't have permissions to login"
+...

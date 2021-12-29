@@ -1,0 +1,7 @@
+# -----------------------------------------
+# WaterEffects Bởi PTK-KienPham Cài Đặt
+# -----------------------------------------
+
+# Hiệu ứng khi người chơi xuống nước (ID Hiệu Ứng)
+Effects:
+- poison

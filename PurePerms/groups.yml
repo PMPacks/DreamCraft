@@ -1,0 +1,275 @@
+---
+Member:
+  alias: mem
+  inheritance: []
+  permissions:
+  - advancedkits.command
+  - essentials.kit.use
+  - essentials.list
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - essentials.warps.shop
+  - myplot.command.claim
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transfer
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  - removecommand.pocketmine.me
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance: []
+  permissions:
+  - essentials.ban
+  - essentials.ban-ip
+  - essentials.banlist
+  - essentials.bsn
+  - essentials.fly
+  - essentials.freeze
+  - essentials.gamemode
+  - essentials.kick
+  - essentials.list
+  - essentials.mute
+  - essentials.pardon
+  - essentials.pardon-ip
+  - essentials.time
+  - essentials.warps.sb
+  - essentials.weather
+  - pocketmine.command.ban
+  - pocketmine.command.ban-ip
+  - pocketmine.command.banlist
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.pardon
+  - pocketmine.command.pardon-ip
+  - pocketmine.command.teleport
+  - pocketmine.command.time.set
+  - poketmine.command.port
+  - poketmine.command.teleport
+  - simplewarp.command.warp
+  - simplewarp.warp
+Builder:
+  alias: bdr
+  inheritance: []
+  permissions:
+  - essentials.gamemode
+  - essentials.gmc
+  - essentials.teleport
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - essentials.weather
+  - fbop
+  - gamemode
+  - myplot.command.admin
+  - pocketmine.command.gamemode
+  - pocketmine.command.gmc
+  - pocketmine.command.teleport
+  - pocketmine.command.time.set
+  worlds: []
+Owner:
+  alias: owr
+  inheritance: []
+  permissions:
+  - '*'
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+Co-Owner:
+  alias: coowr
+  inheritance: []
+  permissions:
+  - '*'
+  - essentials.mute
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  - addcommand.pocketmine.setgroup
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  worlds: []
+YouTuber:
+  alias: yt
+  inheritance: []
+  permissions:
+  - essentials.fly
+  - essentials.list
+  - essentials.teleport
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fbop
+  - fly
+  - pocketmine.command.gamemode
+  - pocketmine.command.teleport
+  - tp
+  worlds: []
+VIPI:
+  alias: vip
+  inheritance: []
+  permissions:
+  - essentials.colorchat
+  - essentials.fly.others
+  - essentials.fly.use
+  - essentials.kit.use
+  - essentials.teleport
+  - essentials.tp
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+VIPII:
+  alias: vip2
+  inheritance: []
+  permissions:
+  - essentials.clearinventory.use
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.getpos.use
+  - essentials.kit.use
+  - essentials.teleport
+  - essentials.tp
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.teleport
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  worlds: []
+VIPIII:
+  alias: vip3
+  inheritance: []
+  permissions:
+  - essentials.clearinventory.use
+  - essentials.colorchat
+  - essentials.fly.use
+  - essentials.getpos.use
+  - essentials.kit.use
+  - essentials.setwarp
+  - essentials.sign.create.warp
+  - essentials.teleporrt
+  - essentials.teleport
+  - essentials.tp
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - fly.me
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.broadcast.user
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.status
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - command.pocketmine.nick
+  - essentials.ban
+  - essentials.ban-ip
+  - essentials.banlist
+  - essentials.colorchat
+  - essentials.fly
+  - essentials.fly.use
+  - essentials.kick
+  - essentials.kit.use
+  - essentials.list
+  - essentials.mute
+  - essentials.pardon
+  - essentials.pardon-ip
+  - essentials.teleport
+  - essentials.time.set
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - essetials.mute
+  - essetials.warp.use
+  - essetials.warps
+  - fly.me
+  - pocketmine.command.ban
+  - pocketmine.command.banlist
+  - pocketmine.command.fly
+  - pocketmine.command.gm
+  - pocketmine.command.kick
+  - pocketmine.command.mute
+  - pocketmine.command.nick
+  - pocketmine.command.pardon
+  - pocketmine.command.teleport
+  - pocketmine.command.tp
+  - pperms.command.listuperms
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentials.ban
+  - essentials.banlist
+  - essentials.colorchat
+  - essentials.fly
+  - essentials.fly.use
+  - essentials.kick
+  - essentials.kit.use
+  - essentials.list
+  - essentials.pardon
+  - essentials.teleport
+  - essentials.tp.me
+  - essentials.warp.use
+  - essentials.warps
+  - essentials.warps.
+  - essentials.warps.sb
+  - mute
+  - mute.command
+  - pocketmine.command.ban
+  - pocketmine.command.kick
+  - pocketmine.command.mute
+  - pocketmine.command.teleport
+  - pocketmine.command.tp
+  - pperms.command.listuperms
+  - simplewarp.command.warp
+  - simplewarp.warp
+  worlds: []
+...
